@@ -1,15 +1,15 @@
 # Store App With React
 
-With
+**React**
 
-React,
+**Redux**
 
-Redux,
+**React-Redux**
 
-React-Redux,
+**Redux Thunk**
 
-Redux Thunk,
+**React Hooks**
 
-React Hooks
+**and etc..**
 
-and etc..
+#### *© This app was created by me in 2024.*
